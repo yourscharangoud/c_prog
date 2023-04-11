@@ -1,4 +1,4 @@
-// No of arrays occurs in one dimensional array
+// temp cont
 
 #include <stdio.h>
 
